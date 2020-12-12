@@ -9,7 +9,7 @@ A motivated second year Computer Science and Software Engineering student at The
 ----
 Coming Soon...
 
-### 2. Text Based Satnav
+### 2. Text Based Route Planner
 ----
 Coming Soon...
 
