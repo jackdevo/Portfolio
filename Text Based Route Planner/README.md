@@ -6,11 +6,13 @@ A simple Python application that utilises TransportAPI to provide text based nav
 
 ### Disclaimer
 ----
+
 As of testing on 12/12/2020 this program no longer works. I assume this is due to a TransportAPI update since the initial
 writing of the program. I may update it in future, but for now the code serves its purpose as a portfolio piece.
 
 ### Usage
 ----
+
 Route Planner takes 2 arguments, the current address and the target address.
 e.g >> routePlanner.py "My House A12 3BC" "My Other House C32 1BC"
 
@@ -24,3 +26,12 @@ so its limitations are pretty endless...
 3. Text Based = Incredibly Dangerous
 4. No UI at all
 5. And So On...
+
+### Credits
+----
+
+Everyting in this script was created by myself.
+
+Credits to developers of the following requirements:
+- TransportAPI
+- geopy
