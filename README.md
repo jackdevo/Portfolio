@@ -23,14 +23,21 @@ An addon script created for pyTson. pyTson is an addon that enables users to cre
 
 View this project [here](https://github.com/jackdevo/Portfolio/tree/main/Teamspeak%20AI%20Responder)
 
+### 3. Swift IOS Applications
+----
 
-### 3. Lovebox
+I have only recently learnt swift, and am creating small apps to expand my skills. I have linked a seperate repository, containing all my recent apps. You can also gain an insight in to the way I approach solutions to problems, by looking at the commit history (just not the hundreds of changes I make to the readme.md markdown!)
+
+View this repository [here](https://github.com/jackdevo/Public-IOS-Projects)
+
+
+### 4. Lovebox
 ----
 
 Coming Soon...
 
 
-### 4. More To Be Added
+### 5. More To Be Added
 ----
 
 I have a lot of projects to be added here, however I need to locate and remove API Keys and identifiable information etc from them first.
