@@ -41,8 +41,9 @@ Coming Soon...
 ### 5. Arma 3 Scripts
 ----
 
-Coming Soon...
+A collection of Arma 3 scripts I have created for the AltisLife gamemode, available for public use.
 
+View this repository [here](https://github.com/jackdevo/Arma-3-Scripts)
 
 ### 6. More To Be Added
 ----
