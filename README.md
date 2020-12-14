@@ -7,6 +7,8 @@ A motivated second-year Computer Science and Software Engineering student at The
 Older projects are in folders on this Github. Current projects have their own repositories. In both cases they are linked below.
 
 
+## Portfolio Projects
+----
 
 ### 1. Text-Based Route Planner
 ----
@@ -36,8 +38,26 @@ View this repository [here](https://github.com/jackdevo/Public-IOS-Projects)
 
 Coming Soon...
 
+### 5. Arma 3 Scripts
+----
 
-### 5. More To Be Added
+Coming Soon...
+
+
+### 6. More To Be Added
 ----
 
 I have a lot of projects to be added here, however I need to locate and remove API Keys and identifiable information etc from them first.
+
+Projects to be added include:
+1. MyPicke Charity Search
+2. Ceasar Cipher Decrypt using Letter Frequency Analysis
+
+## Future Projects
+----
+
+I love playing around with projects that require hardware and software. Some projects I really want to make but haven't got round to yet include:
+1. I am looking in to buying a 3D printer to make loads of cool shells/cases for future projects, one of which could be quadcopter made from motors and an adapter Raspberry Pi
+2. I have recently been playing around with my DJI Tello quadcopter, and figuring out how to use the API. Once I am familliar with it, I might use the drone as a way to look in to machine learning with Python, something I have wanted to do for a while, but haven't had a starting point/idea. I might make a program that allows the Tello to follow faces, track objects etc.
+3. Don't ask why, but I have a hamster and am passionate about their welfare. There are so many people who buy them, thinking they are toys and don't know how to care for their needs. I might make and try to release an IOS app for new Hamster owners with in depth guides on how to keep them safe and happy.
+4. Having studied the principles of networking at University, I want to try out socket programming in Python. I plan to at some point create a Stop and Wait, and Go Back N protocol that can be tested on two machines running python programs.
