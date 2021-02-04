@@ -1,6 +1,6 @@
 # Jack Devonshire | Portfolio
 
-![](https://img.shields.io/github/followers/jackdevo?style=social)
+![](https://img.shields.io/github/followers/jackdevonshire?style=social)
 
 A motivated second-year Computer Science and Software Engineering student at The University of Liverpool. This is a one-stop repository to showcase all of my previous projects.
 
