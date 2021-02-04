@@ -1,6 +1,6 @@
 # Text-Based Route Planner
 
-![](https://img.shields.io/github/followers/jackdevo?style=social)
+![](https://img.shields.io/github/followers/jackdevonshire?style=social)
 
 A simple Python application that utilizes TransportAPI to provide text-based navigation
 
