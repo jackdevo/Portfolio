@@ -1,6 +1,6 @@
 # Teamspeak Auto Responder
 
-![](https://img.shields.io/github/followers/jackdevo?style=social)
+![](https://img.shields.io/github/followers/jackdevonshire?style=social)
 
 An addon script created for pyTson. pyTson is an addon that enables users to create and utilize Python scripts within the Teamspeak 3 Client
 (A VOIP solution widely used by gaming communities).
