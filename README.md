@@ -33,19 +33,14 @@ I have only recently learnt swift, and am creating small apps to expand my skill
 View this repository [here](https://github.com/jackdevo/Public-IOS-Projects)
 
 
-### 4. Lovebox
-----
-
-Coming Soon...
-
-### 5. Arma 3 Scripts
+### 4. Arma 3 Scripts
 ----
 
 A collection of Arma 3 scripts I have created for the AltisLife gamemode, available for public use.
 
 View this repository [here](https://github.com/jackdevo/Arma-3-Scripts)
 
-### 6. More To Be Added
+### 5 More To Be Added
 ----
 
 I have a lot of projects to be added here, however I need to locate and remove API Keys and identifiable information etc from them first.
