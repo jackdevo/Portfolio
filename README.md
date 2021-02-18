@@ -8,7 +8,6 @@ Older projects are in folders on this Github. Current projects have their own re
 
 
 ## Portfolio Projects
-----
 
 ### 1. Text-Based Route Planner
 ----
@@ -50,7 +49,7 @@ Projects to be added include:
 2. Ceasar Cipher Decrypt using Letter Frequency Analysis
 
 ## Future Projects
-----
+
 
 I love playing around with projects that require hardware and software. Some projects I really want to make but haven't got round to yet include:
 
