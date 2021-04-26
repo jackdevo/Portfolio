@@ -54,4 +54,3 @@ Projects to be added include:
 I love playing around with projects that require hardware and software. Some projects I really want to make but haven't got round to yet include:
 
 1. I have recently been playing around with my DJI Tello quadcopter, and figuring out how to use the API. Once I am familliar with it, I might use the drone as a way to look in to machine learning with Python, something I have wanted to do for a while, but haven't had a starting point/idea. I might make a program that allows the Tello to follow faces, track objects etc.
-2. Don't ask why, but I have a hamster and am passionate about their welfare. There are so many people who buy them, thinking they are toys and don't know how to care for their needs. I might make and try to release an IOS app for new Hamster owners with in depth guides on how to keep them safe and happy.
